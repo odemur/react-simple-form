@@ -5,6 +5,8 @@ This project was created with [Create React App](https://github.com/facebook/cre
 
 In the project directory, you can run:
 
+### `npm install`
+
 ### `npm start`
 
 Runs the app in the development mode.\
